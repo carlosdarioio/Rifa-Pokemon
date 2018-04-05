@@ -1,0 +1,17 @@
+body{
+    
+  /*  background-image: url("../img/BCK.jpg");
+     -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+}
+
+.container{
+   /* background-color: azure;*/
+}
+    
+    
+    footer>h1,p.lead{
+    text-align: center !important;
+}
